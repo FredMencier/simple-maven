@@ -1,1 +1,3 @@
-# simple-maven
+# Simple Projet Maven
+- Lib Financial
+- Utilise 
