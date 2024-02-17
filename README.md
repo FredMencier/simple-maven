@@ -1,3 +1,3 @@
 # Simple Projet Maven
 - Lib Financial
-- Utilise 
+- Utilise la lib commons-lang3
